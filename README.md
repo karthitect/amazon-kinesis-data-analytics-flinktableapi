@@ -14,7 +14,7 @@ https://docs.aws.amazon.com/kinesisanalytics/latest/java/getting-started.html#se
 The Apache Flink Kinesis Connector has a dependency on code licensed under the [Amazon Software License](https://aws.amazon.com/asl/) (ASL) so is not available in the Maven central repository.  To download and compile the connector, perform the following steps.
 * From your GitHub root folder, execute the following command to download the Apache Flink source code. (**Notice branch specification**)
 ```
-git clone https://github.com/apache/flink --branch release-1.6.4
+git clone https://github.com/apache/flink --branch release-1.8.2
 ```
 * Navigate to the newly created *flink* directory and execute the following command to build and install the connector.
 ```
